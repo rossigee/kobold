@@ -1,6 +1,6 @@
 # File Associations
 
-The type of a given yaml file is determined by using glob to math the filename.
+The type of a given yaml file is determined by using a glob to match the filename.
 The default matching rules look like this:
 
 ```yaml
